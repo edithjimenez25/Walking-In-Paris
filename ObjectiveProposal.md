@@ -4,9 +4,9 @@ Objective:
 >Ultimately, we want to know the best place to stay in Hawaii?
 
   Null hypotheses:
-    >The number of properties rented out by a host has no impact on rating.
-      *host_listings_count
-      *review_scores_rating
+  1. The number of properties rented out by a host has no impact on rating.
+    1. host_listings_count
+    1. review_scores_rating
     >The neighborhood has no impact on rating/price.
       *neighbourhood_cleansed
       *price
