@@ -5,7 +5,12 @@ Notes about the data:
 	- Collected by scraping airbnb.com website via python
 	- Note from author: "All listings found in any survey do exist on the Airbnb site. There is evidence from Airbnb statements that the listings are fairly complete. Here are some statements made by Airbnb or by others who have access to internal Airbnb data, and some notes."
 	
-	
+The dataset comprises of three main tables:
+listings - Detailed listings data showing 96 attributes for each of the listings. Some of the attributes used in the analysis are price(continuous), longitude (continuous), latitude (continuous), listing_type (categorical), is_superhost (categorical), neighbourhood (categorical), ratings (continuous) among others.
+w
+reviews - Detailed reviews given by the guests with 6 attributes. Key attributes include date (datetime), listing_id (discrete), reviewer_id (discrete) and comment (textual).
+
+calendar - Provides details about booking for the next year by listing. Four attributes in total including listing_id (discrete), date(datetime), available (categorical) and price (continuous).
 
 room_type
 One of the three room types listed above.
