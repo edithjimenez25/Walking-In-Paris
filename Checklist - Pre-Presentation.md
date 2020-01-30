@@ -1,7 +1,6 @@
 ### Presentation Requirements:
 1. [ **not yet complete** ] Formal, 10-minute presentation
 2. [ **not yet complete** ] Questions you found interesting and what motivated you to answer them
-** Scott: bullet point 4 below seems to imply we need at least 3, max of 4 questions **
 3. [ **not yet complete** ] Where and how you found the data you used to answer these questions
 4. [ **not yet complete** ] The data exploration and cleanup process (accompanied by your Jupyter Notebook)
 5. [ **not yet complete** ] The analysis process (accompanied by your Jupyter Notebook)
@@ -12,13 +11,14 @@
 1. [ **not yet complete** ] Development Requirements
 2. [ **not yet complete** ] Create a Jupyter Notebook describing the data exploration and cleanup process.
 3. [ **not yet complete** ] Create a Jupyter Notebook illustrating the final data analysis.
-4. [ **not yet complete** ] Use Matplotlib to create a total of 6–8 visualizations of your data 
-**ideally, have at least 2  vizualizations per ”question” you ask of your data**
+4. [ **not yet complete** ] Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, have at least 2  vizualizations per ”question” you ask of your data)
 5. [ **not yet complete** ] Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
 6. [ **not yet complete** ] (Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions. 
 7. [ **not yet complete** ] Create a write-up summarizing your major findings. 
 8. [ **not yet complete** ] Include a heading for each question you asked of your data 
 9. [ **not yet complete** ] Include a short description of your findings and any relevant plots.
+
+**Scott:** Looks like we need min of 3 or max of 4 questions. We're asked for 6-8 visualizations, and to "have at least 2 per question".
 
 ### From the grading rubric pdf:
 1. All Group members spoke during presentation
