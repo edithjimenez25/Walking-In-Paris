@@ -18,6 +18,18 @@
 8. [ **not yet complete** ] Include a heading for each question you asked of your data 
 9. [ **not yet complete** ] Include a short description of your findings and any relevant plots.
 
+### From the grading rubric pdf:
+1. All Group members spoke during presentation
+2. Group was well prepared
+3. Presentation is relevant to material
+4. Presentation maintains audience interest
+5. Slides look clean and professional
+6. Slides are relevant to material
+7. Slides effectively demonstrate project
+8. Slides are clear and maintain audience interest
+9. Successfully deployed project to GitHub or Heroku
+10. Met all project requirements
+
 ### Things that Dan has said in class
 1. Chris: "Dan said we needed to click 'Restart and run all' for our jupyter notebooks
 2. Dan said bonus possibly for logical regression
