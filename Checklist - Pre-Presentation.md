@@ -8,7 +8,6 @@
 7. [ **not yet complete** ] The implications of your findings: what do your findings mean? 
 
 ### Development Requirements
-1. [ **not yet complete** ] Development Requirements
 2. [ **not yet complete** ] Create a Jupyter Notebook describing the data exploration and cleanup process.
 3. [ **not yet complete** ] Create a Jupyter Notebook illustrating the final data analysis.
 4. [ **not yet complete** ] Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, have at least 2  vizualizations per ”question” you ask of your data)
