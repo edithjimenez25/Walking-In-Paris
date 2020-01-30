@@ -1,5 +1,5 @@
 ### Presentation Requirements:
-| Step # | Status | Requirement |
+| Step | Status | Requirement |
 | :---: | :---: | :--- 
 | 1 |   | Formal, 10-minute presentation|
 | 2 |   | Questions you found interesting and what motivated you to answer them|
@@ -11,11 +11,11 @@
 
 ### Development Requirements
 
-| Step # | Status | Requirement |
+| Step | Status | Requirement |
 | :---: | :---: | :--- 
 | 1 |   | Create a Jupyter Notebook describing the data exploration and cleanup process.
 | 2 |   | Create a Jupyter Notebook illustrating the final data analysis.
-| 3 |  | Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, have at least 2  vizualizations per ”question” you ask of your data)
+| 3 |   | Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, have at least 2  vizualizations per ”question” you ask of your data)
 | 4 |   | Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
 | 5 |   | (Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions. 
 | 6 |   | Create a write-up summarizing your major findings. 
