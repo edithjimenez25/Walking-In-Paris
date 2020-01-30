@@ -8,7 +8,8 @@
 7. [ **not yet complete** ] The implications of your findings: what do your findings mean? 
 
 Table: Step #, Status, Requirement
-| Step # | Status |: Requirement |
+| Step # | Status | Requirement 
+| --- | --- | :--- 
 |1| | Formal, 10-minute presentation|
 |2| | Questions you found interesting and what motivated you to answer them|
 |3|√| Where and how you found the data you used to answer these questions|
