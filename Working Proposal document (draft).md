@@ -67,7 +67,9 @@ Examples from other teams:
 
 
 ### Data Sources
-1. (to do)
+1. http://insideairbnb.com/get-the-data.html # Hawaii data set named "listings.csv"
+2. (to do - add more detail points)
+
 
 Examples from other teams: 
 1. Financial: demographic income data from government census data. Recreation: google maps search results for recreation activity listed above
