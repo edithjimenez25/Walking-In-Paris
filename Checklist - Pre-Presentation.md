@@ -7,6 +7,16 @@
 6. [ **not yet complete** ] Your conclusions, which should include a numerical summary and visualizations of that summary
 7. [ **not yet complete** ] The implications of your findings: what do your findings mean? 
 
+Table: Step #, Status, Requirement
+| Step # | Status |: Requirement |
+|1| | Formal, 10-minute presentation|
+|2| | Questions you found interesting and what motivated you to answer them|
+|3|√| Where and how you found the data you used to answer these questions|
+|4| | The data exploration and cleanup process (accompanied by your Jupyter Notebook)|
+|5| | The analysis process (accompanied by your Jupyter Notebook)|
+|6| | Your conclusions, which should include a numerical summary and visualizations of that summary|
+|7| | The implications of your findings: what do your findings mean? |
+
 ### Development Requirements
 2. [ **not yet complete** ] Create a Jupyter Notebook describing the data exploration and cleanup process.
 3. [ **not yet complete** ] Create a Jupyter Notebook illustrating the final data analysis.
