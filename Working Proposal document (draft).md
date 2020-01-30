@@ -31,13 +31,10 @@ Examples from other teams:
 ### Research Questions to Answer
 From the requirements: "Questions you found interesting and what motivated you to answer them"
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. (to do)
+2. (to do)
+3. (to do)
+4. (to do)
 
 Examples from other teams:
 1. Do urban counties have a higher life expectancy than rural counties?
@@ -70,7 +67,7 @@ Examples from other teams:
 
 
 ### Data Sources
-1. 
+1. (to do)
 
 Examples from other teams: 
 1. Financial: demographic income data from government census data. Recreation: google maps search results for recreation activity listed above
