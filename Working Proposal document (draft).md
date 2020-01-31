@@ -1,5 +1,5 @@
 # Project Description/Outline:
-Identify the attributes that make Airbnb "successful". Find the best place to stay in Hawaii.
+Identify the attributes that make for a successful Airbnb property/host in Hawaii. 
 
 Examples from other teams:
 1. Gather information regarding restaurant health inspection score and the neighborhood they reside in.
@@ -10,6 +10,8 @@ Examples from other teams:
 
 ### Hypothesis
 The number of properties rented out by a host has no impact on rating
+
+Candidates:
 
 Examples from other teams:
 1. Urban counties have a higher life expectancy on average than Rural counties in Texas
@@ -23,6 +25,7 @@ Examples from other teams:
 5. The USA has the highest average rating of all wines
 
 ### Null Hypothesis
+1. Neighborhood has no impact on overall rating 
 None of the factors we are analyzing (neighborhood, number of listings per host, room type, price, keywords in description, how long the host has been hosting, and certain amenities) have an impact on the overall rating.
 
 Examples from other teams:
@@ -38,6 +41,9 @@ From the requirements: "Questions you found interesting and what motivated you t
 5. Where should we go looking (neighborhood, type of place) for the best value at the best price?
 6. Are there are any trigger words in the name that relate to higher bookings?
 7. Is there a relationship between price and bookings?
+
+Scott:
+1. Of the six dimensions for ratings (Accuracy, Cleanliness, Checkin, Communication, Location, Value), is one more important than the rest? Example: if a property is a low Cleanliness score, would it be more likely that all other scores are also lower on average?
 
 Examples from other teams:
 1. Do urban counties have a higher life expectancy than rural counties?
